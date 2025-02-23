@@ -16,7 +16,7 @@ Diabetic retinopathy is a leading cause of vision impairment and blindness among
 
 ## Literature Basis
 
-* https://retinography.org/proliferative-diabetic-retinopathy/
-* https://www.mayoclinic.org/diseases-conditions/diabetic-retinopathy/symptoms-causes/syc-20371611
-* https://www.akillilazergozmerkezi.com/en/diabetic-retinopathy-disease/
-
+* [How to Diabetic Retinopathy From Scans](https://retinography.org/proliferative-diabetic-retinopathy/)
+* [Modeling with Scikit Learn](https://scikit-learn.org/stable/)
+* [About Diabetic Retinopathy](https://www.mayoclinic.org/diseases-conditions/diabetic-retinopathy/symptoms-causes/syc-20371611)
+* [Diabetic Retinopathy Prevention](https://www.akillilazergozmerkezi.com/en/diabetic-retinopathy-disease/)
